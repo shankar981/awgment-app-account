@@ -1,0 +1,16 @@
+{
+  "data": {
+    "name": "test2",
+    "id": "866660468878082061",
+    "content": {
+      "fonts": {
+        "fontSize": 12,
+        "font": "Bebas Neue"
+      },
+      "colors": {
+        "headerColor": "#e7abab",
+        "textColor": "#ccc"
+      }
+    }
+  }
+}

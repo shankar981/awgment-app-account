@@ -3,7 +3,7 @@
 
 ## About
 
-The following are the features of tp-app-account module.
+The following are the features of awgment-app-account module.
 
 * Single User Registration
 * Bulk User Registration
@@ -27,12 +27,12 @@ Set the below environment variables to bootstrap this project.
 
 | Name | Example Value |
 | ------ | ------ |
-| GATEWAY_URI | https://api-gateway.techsophy.com |
+| GATEWAY_URI | hts://api-gateway.techsophy.com |
 | KEYCLOAK_URL_AUTH | https://keycloak.techsophy.com/auth | 
 | TP_MODELER_APP_MONGO_URI | mongodb://localhost:27017/techsophy-platform (Setup replica set)|
 
 
-Click [here](https://git.techsophy.com/techsophy-platform/tp-cloud-config/blob/dev/tp-app-form-dev.yaml)  to view all application properties.
+Click [here](https://git.techsophy.com/techsophy-platform/tp-cloud-config/blob/dev/awgment-app-form-dev.yaml)  to view all application properties.
 
 ## Getting Started
 In order to start working on this project follow below steps:
@@ -42,8 +42,8 @@ In order to start working on this project follow below steps:
 - Download and install [IntelliJ Idea](https://www.jetbrains.com/idea/download/#section=linux)
 - Download and Install [Keycloak](https://www.keycloak.org/archive/downloads-11.0.2.html) and set **KEYCLOAK_URL_AUTH**
 - Download and install [MongoDB]() and setup [replicaset]().
-- Run [tp-cloud-config-server](https://git.techsophy.com/techsophy-platform/tp-cloud-config-server/blob/dev/README.md)
-- Run [tp-api-gateway](https://git.techsophy.com/techsophy-platform/tp-api-gateway)
+- Run [awgment-cloud-config-server](https://git.techsophy.com/techsophy-platform/awgment-cloud-config-server/blob/dev/README.md)
+- Run [awgment-api-gateway](https://git.techsophy.com/techsophy-platform/awgment-api-gateway)
 - Download and install Postman - Click [here](https://www.postman.com/downloads/) to test the REST APIs
 
 
@@ -51,7 +51,7 @@ In order to start working on this project follow below steps:
 The following instructions are useful to run the projet.
 - Open terminal and run following cammand.
 - clone this git repo using below url
->git clone https://git.techsophy.com/techsophy-platform/tp-app-form
+>git clone https://git.techsophy.com/techsophy-platform/awgment-app-form
 - Open the created folder in intellij idea
 - Set the [environment variables]
 - Start the application

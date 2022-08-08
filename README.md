@@ -32,7 +32,7 @@ Set the below environment variables to bootstrap this project.
 | TP_MODELER_APP_MONGO_URI | mongodb://localhost:27017/techsophy-platform (Setup replica set)|
 
 
-Click [here](https://git.techsophy.com/techsophy-platform/tp-cloud-config/blob/dev/awgment-app-form-dev.yaml)  to view all application properties.
+Click [here]([https://github.com/TechsophyOfficial/tp-cloud-config/blob/main/tp-app-account-dev.yaml])  to view all application properties.
 
 ## Getting Started
 In order to start working on this project follow below steps:
@@ -51,7 +51,7 @@ In order to start working on this project follow below steps:
 The following instructions are useful to run the projet.
 - Open terminal and run following cammand.
 - clone this git repo using below url
->git clone https://git.techsophy.com/techsophy-platform/tp-app-form
+>git clone [https://github.com/TechsophyOfficial/awgment-app-account]
 - Open the created folder in intellij idea
 - Set the [environment variables]
 - Start the application
